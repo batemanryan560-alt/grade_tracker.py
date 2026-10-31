@@ -1,0 +1,30 @@
+=== Grade Report ===
+Total students: 15
+Class average: 80.4
+Highest average: 95.2
+Lowest average: 58.2
+
+Grade Distribution:
+  A: 3
+  B: 5
+  C: 5
+  D: 1
+  F: 1
+  N/A: 0
+
+Individual Results:
+  Alice Johnson        91.5 (A)
+  Bob Smith            82.5 (B)
+  Charlie Brown        86.5 (B)
+  Diana Prince         77.8 (C)
+  Eve Williams         95.2 (A)
+  Frank Miller         70.0 (C)
+  Grace Lee            86.8 (B)
+  Henry Davis          79.0 (C)
+  Iris Wilson          62.0 (D)
+  Jack Taylor          89.0 (B)
+  Kate Anderson        76.5 (C)
+  Liam Martinez        84.8 (B)
+  Mia Thompson         58.2 (F)
+  Noah Garcia          93.0 (A)
+  Olivia White         73.5 (C)
